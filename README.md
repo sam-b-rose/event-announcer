@@ -22,3 +22,6 @@ Use Twitter collections to create a controlled live stream of event announcement
 1. Replace the timeline code with your the generated markup.
 
 Change the logo text (or image) and page title to fit the organization / event.
+
+## Screenshot
+<img src="https://cloud.githubusercontent.com/assets/11774595/18421148/a6e38daa-7850-11e6-8377-d81ee9e40fc5.png" alt="Event Announcements" width="600" />
